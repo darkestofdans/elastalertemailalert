@@ -1,0 +1,2 @@
+user: emailaccounttosendfrom@gmail.com
+password: Password!
